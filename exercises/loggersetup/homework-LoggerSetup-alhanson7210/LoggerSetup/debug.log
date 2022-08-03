@@ -1,0 +1,10 @@
+[1 TRA] LoggerSetup.outputMessages main: tucan 
+[2 DEB] LoggerSetup.outputMessages main: dodo 
+[3 INF] LoggerSetup.outputMessages main: ibis 
+[4 WAR] LoggerSetup.outputMessages main: wren 
+[5 ERR] LoggerSetup.outputMessages main: egret java.lang.Exception: eagle
+	at LoggerSetup.outputMessages(LoggerSetup.java:20)
+	at LoggerSetup.main(LoggerSetup.java:30)
+[6 FAT] LoggerSetup.outputMessages main: Catching java.lang.RuntimeException: finch
+	at LoggerSetup.outputMessages(LoggerSetup.java:21)
+	at LoggerSetup.main(LoggerSetup.java:30)
